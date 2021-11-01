@@ -24,7 +24,13 @@ Screenshot 2 (Tests)
 
 
 Tests
+
+
 To run tests on the application, install
 npm install jest
 and run npm run test from the command line.
 
+
+LICENCE
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
