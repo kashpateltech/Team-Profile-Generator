@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: rgb(242, 239, 239);
+    --secondary: white;
+    --accent: black;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    background-color: red;
+    color: var(--secondary);
+    font-size: 50px;
+}
+
+.navbar-brand {
+    font-size: inherit;
+}
+
+.card-header {
+    background-color: rgb(43, 0, 255);
+    color: var(--secondary);
+}
+
+.card-body {
+    background-color: var(--primary);
+    color: var(--accent);
+}
+
+.card-body p {
+    background-color: var(--secondary);
+    margin-bottom: 0.2vh;
+    padding: 0.5rem;
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.card {
+    box-shadow: 3px 7px 10px #888888;
+}
