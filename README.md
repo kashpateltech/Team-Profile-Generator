@@ -20,7 +20,7 @@ ScreenShot 1 (Application)
 ![Screen Shot 2021-11-02 at 1 06 00 am](https://user-images.githubusercontent.com/88652187/139688665-cb62a4d2-0238-441e-82d5-1fa31f75091b.png)
 
 
-Screenshot 2 (Tests)
+Screenshot 2 (Node.js)
 ![Screen Shot 2021-11-02 at 1 07 44 am](https://user-images.githubusercontent.com/88652187/139688714-551fe609-c966-459e-ada9-e35dda3c02f1.png)
 
 
