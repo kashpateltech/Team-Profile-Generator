@@ -11,6 +11,7 @@ Your generated team profile page will be created in the ./dist folder
 Video Demo
 A video demonstration of the application can be found on [LINK](https://youtu.be/GiXJzY6eiQs)
 
+A video demonstration of the tests can be found on [TEST](https://youtu.be/D9yTuFcSd4c)
 
 Screenshots
 
